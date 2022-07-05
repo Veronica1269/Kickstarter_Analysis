@@ -17,7 +17,7 @@ The first part of of this project focus on the "Theatre" category. It investigat
 
 The number of successful projects is related most to lunch month. It is increasing from January to May and decreasing from May to December, with the largest number in May and the lowest number in December. The number of failed projects lunched in the middle of year is larger. There is no strong relation between the number of canceled projects and lunch month. The number of canceled projects is about the same with different lunch month.
 
-! [Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ## 3. Analysis of Outcomes Based on Goals
 
