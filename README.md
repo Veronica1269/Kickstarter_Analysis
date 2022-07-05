@@ -17,7 +17,8 @@ The first part of of this project focus on the "Theatre" category. It investigat
 
 The number of successful projects is related most to lunch month. It is increasing from January to May and decreasing from May to December, with the largest number in May and the lowest number in December. The number of failed projects lunched in the middle of year is larger. There is no strong relation between the number of canceled projects and lunch month. The number of canceled projects is about the same with different lunch month.
 
-![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ## 3. Analysis of Outcomes Based on Goals
 
@@ -29,6 +30,8 @@ In the second part, connection between outcomes and funding goals is analyzed fo
   ### 3.2 Results
 
 The percentages of cancled project are zero for all ranges. The successful percentages are higher in the range "less than 1000" and in the range "between 2000 to 4999", which are 76% and 75% seperately. The percentage of failed projects will increase with increasing funding goals. The Projects with funding goal between 45000 to 49999 have the highest failed rate, which is 100%.  
+
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
 
 ## 4. Challenges and Difficulties
